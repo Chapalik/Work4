@@ -19,7 +19,6 @@ public class Resolution {
         char c = 1;
         int i2 = Character.getNumericValue(c);
 
-        System.out.println(i2);
-        
+        System.out.println(i2);     
     }
 }
