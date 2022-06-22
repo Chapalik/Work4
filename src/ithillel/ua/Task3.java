@@ -9,5 +9,4 @@ public class Resolution2 {
 
         System.out.println(f);
     }
-
 }
