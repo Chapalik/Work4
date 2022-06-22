@@ -10,8 +10,6 @@ public class Cquare2 {
         boolean ratio = perimeter == square;
         String string = "The perimeter is equal to the area :";
 
-        System.out.println(string + ratio);
-        
-    }
-    
+        System.out.println(string + ratio);  
+    }    
 }
