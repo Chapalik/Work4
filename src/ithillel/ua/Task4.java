@@ -8,7 +8,5 @@ public class Resolution3 {
         a++;
 
         System.out.println(a);
-
     }
-
 }
