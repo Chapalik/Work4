@@ -11,7 +11,5 @@ public class Square {
         String string = "The perimeter is equal to the area :";
 
         System.out.println(string + ratio);
-        
     }
-    
 }
