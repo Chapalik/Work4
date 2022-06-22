@@ -20,16 +20,6 @@ public class Resolution {
         int i2 = Character.getNumericValue(c);
 
         System.out.println(i2);
-
-
-
-
-
-
-
-
-
-
-
+        
     }
 }
