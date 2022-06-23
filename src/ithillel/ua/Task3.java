@@ -1,6 +1,6 @@
 package ithillel.ua;
 
-public class Resolution2 {
+public class Task3 {
 
     public static void main(String[] args) {
 
