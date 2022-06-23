@@ -1,6 +1,6 @@
 package ithillel.ua;
 
-public class Cquare2 {
+public class Task1_02 {
 
     public static void main(String[] args) {
 
